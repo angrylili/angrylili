@@ -1,0 +1,46 @@
+h1
+{
+    color: rgb(50, 62, 87);
+    text-align: center;
+    border: black 3px;
+}
+h4
+{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+.hatszin{
+    background-color: rgb(190, 186, 190);
+}
+.szin{
+    background-color: rgb(207, 192, 207);
+}
+img {
+    width: 400px;
+    height: 400px;
+    margin: 10px;
+    box-shadow: 10px 10px 20px rgb(78, 56, 100);
+}
+.marg {
+    margin: 5px;
+}
+.img-div {
+    background-color: rgb(232, 200, 240);
+
+}
+p {
+    font: 1em sans-serif;
+    font-size: x-large;
+    position: relative;
+    top: 50px;
+}
+#nemgorg {
+    position: fixed;
+    top: 5px;
+    left: 550px;
+    text-align: center;
+    background-color: rgb(120, 153, 153);
+    border-style: solid;
+}
